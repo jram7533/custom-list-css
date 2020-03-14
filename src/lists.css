@@ -1,0 +1,238 @@
+/*
+    lists.css
+    Author:         Jack
+    Date:           2020-03-08
+    Last revised:   2020-03-08
+    Purpose:        Define custom bullet points for unordered lists
+*/
+
+ul li {
+    list-style: none;
+    position: relative;
+}
+
+ul.arrow>li::before {
+    content: '\276F\276F';
+    color: #041E42;
+    margin-right: 10px;
+}
+
+ul.arrow-heavy>li::before {
+    content: '\2794';
+    color: #041E42;
+    margin-right: 10px;
+}
+
+ul.arrow-heavy-round-tip>li::before {
+    content: '\279C';
+    color: #041E42;
+    margin-right: 10px;
+}
+
+ul.arrow-right-double-dash>li::before {
+    content: '\290D';
+    color: #041E42;
+    margin-right: 10px;
+}
+
+ul.asterisk-heavy>li::before {
+    content: '\2731';
+    color: #041E42;
+    margin-right: 10px;
+}
+
+ul.asterism>li::before {
+    content: '\2042';
+    color: #041E42;
+    margin-right: 10px;
+}
+
+ul.atom>li::before {
+    content: '\269B';
+    color: #041E42;
+    margin-right: 10px;
+}
+
+ul.ballot-box-check>li::before {
+    content: '\2611';
+    color: #041E42;
+    margin-right: 10px;
+}
+
+ul.ballot-box-x>li::before {
+    content: '\2612';
+    color: #041E42;
+    margin-right: 10px;
+}
+
+ul.biohazard>li::before {
+    content: '\2612';
+    color: #041E42;
+    margin-right: 10px;
+}
+
+ul.check-mark>li::before {
+    content: '\2714';
+    color: #041E42;
+    margin-right: 10px;
+}
+
+ul.comet>li::before {
+    content: '\2604';
+    color: #041E42;
+    margin-right: 10px;
+}
+
+
+ul.diamond>li::before {
+    content: '\2756';
+    color: #041E42;
+    margin-right: 10px;
+}
+
+ul.dotted-cross>li::before {
+    content: '\205C';
+    color: #041E42;
+    margin-right: 10px;
+}
+
+ul.exclamation>li::before {
+    content: '\0021';
+    color: #041E42;
+    margin-right: 10px;
+}
+
+ul.flag>li::before {
+    content: '\2691';
+    color: #041E42;
+    margin-right: 10px;
+}
+
+ul.fleur-de-lis>li::before {
+    content: '\269C';
+    color: #041E42;
+    margin-right: 10px;
+}
+
+ul.four-dot>li::before {
+    content: '\2058';
+    color: #041E42;
+    margin-right: 10px;
+}
+
+ul.gear>li::before {
+    content: '\2699';
+    color: #041E42;
+    margin-right: 10px;
+}
+
+ul.knight>li::before {
+    content: '\265E';
+    color: #041E42;
+    margin-right: 10px;
+}
+
+ul.multiplication>li::before {
+    content: '\2716';
+    color: #041E42;
+    margin-right: 10px;
+}
+
+ul.note-music>li::before {
+    content: '\266A';
+    color: #041E42;
+    margin-right: 10px;
+}
+
+ul.note-double>li::before {
+    content: '\266B';
+    color: #041E42;
+    margin-right: 10px;
+}
+
+ul.pencil-lower-right>li::before {
+    content: '\0270E';
+    color: #041E42;
+    margin-right: 10px;
+}
+
+ul.radioactive>li::before {
+    content: '\2622';
+    color: #041E42;
+    margin-right: 10px;
+}
+
+ul.reference-mark>li::before {
+    content: '\203B';
+    color: #041E42;
+    margin-right: 10px;
+}
+
+ul.section>li::before {
+    content: '\00A7';
+    color: #041E42;
+    margin-right: 10px;
+}
+
+ul.smiley>li::before {
+    content: '\263B';
+    color: #041E42;
+    margin-right: 10px;
+}
+
+ul.star>li::before {
+    content: '\2605';
+    color: #041E42;
+    margin-right: 10px;
+}
+
+ul.sun>li::before {
+    content: '\2600';
+    color: #041E42;
+    margin-right: 10px;
+}
+
+ul.three-dot>li::before {
+    content: '\2056';
+    color: #041E42;
+    margin-right: 10px;
+}
+
+ul.tilde>li::before {
+    content: '\007E';
+    color: #041E42;
+    margin-right: 10px;
+}
+
+ul.triangle>li::before {
+    content: '\27A4';
+    color: #041E42;
+    margin-right: 10px;
+}
+
+ul.triangular-bullet>li::before {
+    content: '\2023';
+    color: #041E42;
+    margin-right: 10px;
+}
+
+ul.tricolon>li::before {
+    content: '\205D';
+    color: #041E42;
+    margin-right: 10px;
+}
+
+ul.warning>li::before {
+    content: '\26A0';
+    color: #041E42;
+    margin-right: 10px;
+}
+
+ul.x>li::before {
+    content: '\2718';
+    color: #041E42;
+    margin-right: 10px;
+}
+
+
+
